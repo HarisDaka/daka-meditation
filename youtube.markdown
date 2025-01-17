@@ -1,7 +1,7 @@
 ---
 layout: page
 title: youtube
-permalink: /youtube/
+permalink: https://www.youtube.com/
 ---
 
 [![Awakening eternal love](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=WGJmWV6g4do) Awakening eternal love
