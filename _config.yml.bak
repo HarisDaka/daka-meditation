@@ -27,7 +27,7 @@ baseurl: "/daka-meditation" # the subpath of your site, e.g. /blog
 url: "https://harisdaka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: HarisDaka
 github_username:  HarisDaka
-youtube_username: "@harisdaka2145"
+
 # Build settings
 theme: minima
 plugins:
