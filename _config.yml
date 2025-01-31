@@ -28,7 +28,8 @@ url: "https://harisdaka.github.io" # the base hostname & protocol for your site,
 instagram_username: HarisDaka
 github_username:  HarisDaka
 youtube_username: "@harisdaka2145"
-# Build settings
+twitch_username: harisdaka8
+  # Build settings
 theme: minima
 plugins:
   - jekyll-feed
